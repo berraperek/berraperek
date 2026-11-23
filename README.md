@@ -3,7 +3,7 @@
 - 🛠️ Software Engineer at **Ankawiser**, building a solar power plant management platform end to end: .NET backend, React web app and Expo / React Native mobile app
 - 🧩 I work across the whole product, from customer-facing features and business workflows to admin tools and role-based access control
 - 🤖 I build AI features on top of the platform's data, such as automated reports, smart prioritization and a chat assistant, while making sure each one respects user permissions
-- 📱 On mobile, I handle Expo SDK upgrades and automated App Store & Google Play releases with EAS
+- 📱 I own the mobile app end to end: architecture, features, performance, and automated App Store & Google Play releases
 - ⚡ I develop with AI agents end to end: from planning and implementation to small, reviewed PRs and CI
 - 🚀 Co-founded **Panda App**, where I built the backend, the React Native app and its LLM features
 - 🔭 Currently building [**SemanticFeed**](https://github.com/berraperek/semanticfeed): semantic search over new research papers
