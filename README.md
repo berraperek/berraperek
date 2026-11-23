@@ -1,25 +1,42 @@
 ## Hi, I'm Berra 👋
 
-- 🔭 Currently building [**SemanticFeed**](https://github.com/berraperek/semanticfeed): semantic search over new research papers
-- 🛠️ Software Engineer at **Ankawiser**, working on web & mobile products
+- 🛠️ Software Engineer at **Ankawiser**, working on **Solarbaz**, a solar power plant management platform: an Expo / React Native app and a .NET + React web platform
+- 📱 On the mobile app, I set up tag-based App Store & Google Play releases with EAS Workflows, upgraded to Expo SDK 57 and moved session handling to secure storage
+- 🔐 On the web platform, I build task-management features and mobile APIs, and scope permissions so AI features and offers only expose what each user is allowed to see
 - 🚀 Co-founded **Panda App**, where I built the backend, the React Native app and its LLM features
-- 🤖 Interested in retrieval, semantic search and making LLM features reliable in production
+- 🔭 Currently building [**SemanticFeed**](https://github.com/berraperek/semanticfeed): semantic search over new research papers
 - 📐 Mathematics graduate from **METU**
-- 💬 Ask me about backend architecture, RAG, React Native
+- 💬 Ask me about React Native & Expo, backend architecture, RAG
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berraperek)
 
 ### 🧰 Tools I work with
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+**Mobile & frontend**
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Backend & data**
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+**Cloud, AI & delivery**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![EAS](https://img.shields.io/badge/EAS_Build-000020?style=flat&logo=expo&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
