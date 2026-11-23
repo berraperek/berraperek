@@ -1,12 +1,14 @@
 ## Hi, I'm Berra 👋
 
-- 🛠️ Software Engineer at **Ankawiser**, working on **Solarbaz**, a solar power plant management platform: an Expo / React Native app and a .NET + React web platform
-- 📱 On the mobile app, I set up tag-based App Store & Google Play releases with EAS Workflows, upgraded to Expo SDK 57 and moved session handling to secure storage
-- 🔐 On the web platform, I build task-management features and mobile APIs, and scope permissions so AI features and offers only expose what each user is allowed to see
+- 🛠️ Software Engineer at **Ankawiser**, building a solar power plant management platform end to end: .NET backend, React web app and Expo / React Native mobile app
+- 🧩 I work across the whole product: sales & pricing, installation projects, plant monitoring, task management, admin and permissions
+- 🤖 I work on the platform's AI features, like fleet triage, chat over plant data and investor reports, and keep each one scoped to what the user is allowed to see
+- 📱 On mobile, I handle Expo SDK upgrades and automated App Store & Google Play releases with EAS
+- ⚡ I develop with AI agents end to end: from planning and implementation to small, reviewed PRs and CI
 - 🚀 Co-founded **Panda App**, where I built the backend, the React Native app and its LLM features
 - 🔭 Currently building [**SemanticFeed**](https://github.com/berraperek/semanticfeed): semantic search over new research papers
 - 📐 Mathematics graduate from **METU**
-- 💬 Ask me about React Native & Expo, backend architecture, RAG
+- 💬 Ask me about AI-assisted development, React Native & Expo, backend architecture, RAG
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berraperek)
 
@@ -35,6 +37,7 @@
 **Cloud, AI & delivery**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
